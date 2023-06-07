@@ -1,4 +1,4 @@
-## Authore Sreekar for VPC-3AZ's-3Tier application architecture ( Web, Mid & Data Layer) For Primary
+## Authore Sreekar for VPC-3AZ's-3Tier application architecture ( Web, Mid & Data Layer) For Primary Deployment Template
 
 AWSTemplateFormatVersion: '2010-09-09'
 Description: 'Cloudformation Template to create a VPC with public and private subnets in 3 AZs'
